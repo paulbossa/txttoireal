@@ -1,0 +1,6 @@
+>test</a> - test<br /></h3><br />
+<br />Made with iReal Pro
+<a href="https://www.irealpro.com"><img src="https://www.irealb.com/forums/images/images/misc/ireal-pro-logo-50.png" width="25" height="25" hspace="10" alt=""/></a>
+<br /><br /><span class="help">- iOS: tap Share/Export and choose Copy to iReal Pro.<br />- Mac: drag the .html file on the iReal Pro App icon in the dock.</span><br />
+</body>
+</html>
